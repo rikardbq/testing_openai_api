@@ -1,0 +1,16 @@
+{
+  "name": "testing_openai_api",
+  "version": "1.0.0",
+  "description": "testing openai api",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node main.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rikardbq",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
