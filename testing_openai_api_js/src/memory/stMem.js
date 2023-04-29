@@ -1,4 +1,4 @@
-import { HISTORY } from "./constants.mjs";
+import { HISTORY } from "./constants";
 
 class ShortTermMemoryBuffer {
   constructor({ key = HISTORY }) {
