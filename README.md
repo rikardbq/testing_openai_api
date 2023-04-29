@@ -2,6 +2,9 @@
 
 ## testing_openai_api_js
 ---
+- prerequisites
+  - node
+  - npm
 - main file
   - main.mjs
 - running the project
@@ -12,6 +15,9 @@
     ```
 ## testing_openai_api_py
 ---
+- prerequisites
+  - python 3 (only tested on python >=v.3, will possibly work on older versions as well)
+  - pip
 - main file
   - main.py
 - running the project
