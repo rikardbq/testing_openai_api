@@ -2,16 +2,22 @@
 
 ## testing_openai_api_js
 ---
+- prerequisites
+  - node
+  - npm
 - main file
   - main.mjs
 - running the project
   - replace "YOUR_API_KEY" in .env file with your own real api key.
   - ```console
-    $ npm i
+    $ npm install
     $ npm run start
     ```
 ## testing_openai_api_py
 ---
+- prerequisites
+  - python 3 (as of development. Possibly working on older versions as well, idk :) i'm no python expert)
+  - pip
 - main file
   - main.py
 - running the project
