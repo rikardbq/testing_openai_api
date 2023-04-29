@@ -1,7 +1,7 @@
 import * as dotenv from "dotenv";
 
 const initSettings = () => {
-  return dotenv.config();
+  dotenv.config();
 };
 
 export default initSettings;
