@@ -1,5 +1,6 @@
 # generic
 .vscode
+.idea
 
 # testing_openai_api_js
 testing_openai_api_js/node_modules
