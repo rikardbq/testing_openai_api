@@ -1,5 +1,5 @@
-import initSettings from "./src/settings.mjs";
-import initClient from "./src/client.mjs";
+import initSettings from "./src/settings";
+import initClient from "./src/client";
 
 initSettings();
 const client = initClient(process.env.OPENAI_API_KEY);
